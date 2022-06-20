@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stef432
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently 42Berlin pisciner!
+- 💞️ I’m looking to collaborate on human rights related projects
 - 📫 How to reach me ...
 
 <!---
