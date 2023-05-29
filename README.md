@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Stef432
-- 👀 I’m interested in ...
-- 🌱 I’m currently 42Berlin pisciner!
-- 💞️ I’m looking to collaborate on human rights related projects
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with human rights related projects
 
 <!---
 Stef432/Stef432 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
